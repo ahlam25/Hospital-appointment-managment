@@ -1,5 +1,5 @@
 # Final Assessment Mobile application Development 
-# Hospital appointment managment system
+# Hospital appointment managment system ( i-appoint )
 ---
 Prepared by:
 Kaha Mohamed "1720416"
