@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "278020054006",
+    "firebase_url": "https://iappoint-bf549-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iappoint-bf549",
+    "storage_bucket": "iappoint-bf549.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278020054006:android:d15138c76cb7d5c1c585d7",
+        "android_client_info": {
+          "package_name": "com.example.iappoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278020054006-4rqesq86i2752s23t6ovnpvd0doppu2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5uUm_I-tMFPM92z2x493jKvJIyngEBFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278020054006-4rqesq86i2752s23t6ovnpvd0doppu2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
